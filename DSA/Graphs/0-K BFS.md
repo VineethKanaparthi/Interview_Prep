@@ -4,6 +4,8 @@
 
 > reading: [cp-algorithms](https://cp-algorithms.com/graph/01_bfs.html), [codeforces-tutorial](https://codeforces.com/blog/entry/88408)
 
+> practice: [Lame King](https://codeforces.com/contest/1804/problem/A)
+
 
 ## Table of Contents
 
