@@ -1,4 +1,4 @@
-> Related to: [[Graphs]], [[BFS]]
+> Related to: [[Graphs]], [[BFS]],  [[0-K BFS]]
 > reading: [cp-algorithms](https://cp-algorithms.com/graph/breadth-first-search.html)
 
 ## Table of Contents
